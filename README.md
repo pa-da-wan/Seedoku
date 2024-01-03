@@ -33,11 +33,13 @@ Seedoku is a Python-based Sudoku solver that utilizes digit recognition to solve
 
 
 ## Demo
-1. gif showing step involved 
+1. gif showing step involved
+   
 ![seedokuSteps](https://github.com/pa-da-wan/Seedoku/assets/73534577/35edc08b-74a9-458e-a804-7978a3a8655c "process summary")
 
 2. live demo using laptop webcam
-![application video](https://github.com/pa-da-wan/Seedoku/assets/73534577/220bb1e2-d16e-4e3b-a832-7cc03e890282 "live demo")
+   
+![application video](https://github.com/pa-da-wan/Seedoku/assets/73534577/25cf5afc-a220-4613-bb51-6fc990bb8587 "live demo")
 
 
 
