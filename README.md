@@ -72,7 +72,7 @@ Seedoku uses a combination of image processing and a backtracking algorithm to s
     Display the solution overlaid on the original image.
 
 
-## Usage 
+## Usage
 
 Follow the instructions below to set up Seedoku on your local machine.
 
