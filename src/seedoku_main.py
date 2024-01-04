@@ -8,7 +8,7 @@ from sudoku_algorithm import SudokuSolver
 
 IMG_HEIGHT = 450
 IMG_WIDTH = 450
-MODEL_PATH = os.path.join('training', 'digitModel.keras')
+MODEL_PATH = os.path.join('..','training', 'digitModel.keras')
 
 
 def process_frame(frame):
