@@ -8,6 +8,7 @@ img
     width:60%;
 }
 </style>
+
 # Seedoku
 
 Welcome to Seedoku – a Sudoku puzzle solver program with digit recognition!
