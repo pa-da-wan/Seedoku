@@ -35,15 +35,15 @@ Seedoku is a Python-based Sudoku solver that utilizes digit recognition to solve
 ## Demo
 1. gif showing step involved
    
-<p align="center"> 
+
 ![seedokuSteps](https://github.com/pa-da-wan/Seedoku/assets/73534577/35edc08b-74a9-458e-a804-7978a3a8655c "process summary")
-</p>
+
 
 2. live demo using laptop webcam
 
-<p align="center"> 
+
 ![application video](https://github.com/pa-da-wan/Seedoku/assets/73534577/3bdc9921-1970-4d2b-a9c2-354ee65272e2 "live demo")
-</p>
+
 
 
 ## How It Works
